@@ -48,7 +48,6 @@ This dashboard includes multiple interactive visualizations for exploring sales 
 - ✅ Top Cities by Sales (Bar Chart)
 
 ### 💳 6. Payment Method Insights
-- ✅ Payment Method Usage (Bar Chart / Histogram)
 - ✅ Payment Method Share (Pie Chart)
 
 ### 👤 7. Customer Insights
