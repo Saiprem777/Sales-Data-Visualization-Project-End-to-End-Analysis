@@ -75,7 +75,7 @@ project/
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**Sai prem**  
 🔗 [GitHub](https://github.com/Saiprem777) • 📧 karuparthi1@gmail.com
 
 ---
